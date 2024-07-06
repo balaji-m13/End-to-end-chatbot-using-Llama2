@@ -5,3 +5,4 @@ langchain-community
 flask
 pypdf
 pinecone-client
+-e .
